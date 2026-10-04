@@ -62,3 +62,11 @@ Displays all current user settings in a readable format.
 This project was created to practice Python fundamentals, particularly dictionaries, functions, conditional logic, loops, and string manipulation.
 
 It represents one step in my progression toward using Python for data analysis and working with real-world datasets.
+
+## Attribution
+
+This project was completed as part of the freeCodeCamp Python curriculum.
+
+The exercise specification and learning materials are provided by freeCodeCamp. This repository contains my implementation of the exercise for learning and portfolio-development purposes.
+
+https://www.freecodecamp.org/
