@@ -1,6 +1,6 @@
 # Budget App
 
-A Python budget management application developed as part of the freeCodeCamp Python curriculum.
+A Python budget management application for tracking spending categories, transactions, transfers, balances, and spending percentages.
 
 ## Features
 
